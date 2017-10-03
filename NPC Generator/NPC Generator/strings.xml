@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<string>
+  <Races itemcount="4">
+    <race>Human</race>
+    <race>Dwarf</race>
+    <race>Elf</race>
+    <race>Halfling</race>
+    <!--<race>Dragonborn</race>
+    <race>Gnome</race>
+    <race>Half-Elf</race>
+    <race>Half-Orc</race>
+    <race>Tiefling</race>-->
+  </Races>
+  <Nationalities itemcount="5">
+    <nationality>American</nationality>
+    <nationality>German</nationality>
+    <nationality>British</nationality>
+    <nationality>French</nationality>
+    <nationality>Canadian</nationality>
+  </Nationalities>
+  <FirstNames>
+    <Human>
+      <American itemcount="7">
+        <name>Andrew</name>
+        <name>Michael</name>
+        <name>Nicholas</name>
+        <name>Marc</name>
+        <name>Kris</name>
+        <name>Noah</name>
+        <name>Wyatt</name>
+      </American>
+      <German itemcount="7">
+        <name>Andrew</name>
+        <name>Michael</name>
+        <name>Nicholas</name>
+        <name>Marc</name>
+        <name>Kris</name>
+        <name>Noah</name>
+        <name>Wyatt</name>
+      </German>
+      <British itemcount="7">
+        <name>Andrew</name>
+        <name>Michael</name>
+        <name>Nicholas</name>
+        <name>Marc</name>
+        <name>Kris</name>
+        <name>Noah</name>
+        <name>Wyatt</name>
+      </British>
+      <French itemcount="7">
+        <name>Andrew</name>
+        <name>Michael</name>
+        <name>Nicholas</name>
+        <name>Marc</name>
+        <name>Kris</name>
+        <name>Noah</name>
+        <name>Wyatt</name>
+      </French>
+      <Canadian itemcount="7">
+        <name>Andrew</name>
+        <name>Michael</name>
+        <name>Nicholas</name>
+        <name>Marc</name>
+        <name>Kris</name>
+        <name>Noah</name>
+        <name>Wyatt</name>
+      </Canadian>
+    </Human>
+    <Dwarf itemcount="7">
+      <name>Adrik</name>
+      <name>Baern</name>
+      <name>Bruenor</name>
+      <name>Delg</name>
+      <name>Flint</name>
+      <name>Harbek</name>
+      <name>Morgran</name>
+      <name>Orsik</name>
+    </Dwarf>
+    <Elf itemcount="7">
+      <name>Adran</name>
+      <name>Beiro</name>
+      <name>Enialis</name>
+      <name>Galinndan</name>
+      <name>Laucian</name>
+      <name>Quarion</name>
+      <name>Varis</name>
+    </Elf>
+    <Halfling itemcount="7">
+      <name>Ander</name>
+      <name>Cade</name>
+      <name>Corrin</name>
+      <name>Garret</name>
+      <name>Merric</name>
+      <name>Ozzy</name>
+      <name>Reed</name>
+    </Halfling>
+  </FirstNames>
+  <Surnames>
+    <Human>
+      <American itemcount="5">
+        <name>Hill</name>
+        <name>Demick</name>
+        <name>Klinefelter</name>
+        <name>Grimaudo</name>
+        <name>Fuller</name>
+      </American>
+      <German itemcount="5">
+        <name>Hill</name>
+        <name>Demick</name>
+        <name>Klinefelter</name>
+        <name>Grimaudo</name>
+        <name>Fuller</name>
+      </German>
+      <British itemcount="5">
+        <name>Hill</name>
+        <name>Demick</name>
+        <name>Klinefelter</name>
+        <name>Grimaudo</name>
+        <name>Fuller</name>
+      </British>
+      <French itemcount="5">
+        <name>Hill</name>
+        <name>Demick</name>
+        <name>Klinefelter</name>
+        <name>Grimaudo</name>
+        <name>Fuller</name>
+      </French>
+      <Canadian itemcount="5">
+        <name>Hill</name>
+        <name>Demick</name>
+        <name>Klinefelter</name>
+        <name>Grimaudo</name>
+        <name>Fuller</name>
+      </Canadian>
+    </Human>
+    <Dwarf itemcount="5">
+      <name>Battlehammer</name>
+      <name>Fireforge</name>
+      <name>Frostbeard</name>
+      <name>Ironfist</name>
+      <name>Torunn</name>
+    </Dwarf>
+    <Elf itemcount="5">
+      <name>Amakiir</name>
+      <name>Galanodel</name>
+      <name>Ilphelkiir</name>
+      <name>Meliamne</name>
+      <name>Siannodel</name>
+    </Elf>
+    <Halfling itemcount="5">
+      <name>Brushgather</name>
+      <name>Greenbottle</name>
+      <name>Leagallow</name>
+      <name>Tealeaf</name>
+      <name>Thorngage</name>
+    </Halfling>
+  </Surnames>
+  <Roles itemcount="12">
+    <role>Barbarian</role>
+    <role>Bard</role>
+    <role>Cleric</role>
+    <role>Druid</role>
+    <role>Fighter</role>
+    <role>Monk</role>
+    <role>Paladin</role>
+    <role>Ranger</role>
+    <role>Rogue</role>
+    <role>Sorcerer</role>
+    <role>Warlock</role>
+    <role>Wizard</role>
+   </Roles>
+   <Jobs itemcount="20">
+     <job>Baker</job>
+     <job>Butcher</job>
+     <job>Scribe</job>
+     <job>Blacksmith</job>
+     <job>Alchemist</job>
+     <job>Mushroom merchant</job>
+     <job>Mercanary</job>
+     <job>Bowyer</job>
+     <job>Town Crier</job>
+     <job>Miner</job>
+     <job>Shipwright</job>
+     <job>Forester</job>
+     <job>Herbalist</job>
+     <job>Loin merchant</job>
+     <job>Provisioner</job>
+     <job>Merchant of Deadly Items</job>
+     <job>City Guard</job>
+     <job>Barkeeper</job>
+     <job>Politician</job>
+     <job>Town Loon</job>
+   </Jobs>
+</string>
